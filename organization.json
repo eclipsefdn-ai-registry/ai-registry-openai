@@ -1,0 +1,8 @@
+{
+  "id": "openai",
+  "name": "OpenAI",
+  "description": "Based on an official public source. This does not indicate direct participation by the organisation in the AI Registry.",
+  "website": "https://openai.com",
+  "color": "#10a37f",
+  "inferred": true
+}

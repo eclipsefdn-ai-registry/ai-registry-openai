@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.openai",
+  "date": "2026-06-09",
+  "source": {
+    "url": "https://github.com/openai/skills.git",
+    "path": "skills/.curated/*"
+  }
+}
