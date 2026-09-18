@@ -1,0 +1,13 @@
+{
+  "serverId": "com.openai/docs-mcp",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "OpenAI Docs MCP",
+    "description": "Official, self-published remote MCP server hosted by OpenAI at developers.openai.com, providing read-only search and page-content access to OpenAI's developer documentation (developers.openai.com, platform.openai.com, learn.chatgpt.com). Documentation-only; does not call the OpenAI API on your behalf."
+  },
+  "selfPublished": true,
+  "config": {
+    "type": "http",
+    "url": "https://developers.openai.com/mcp"
+  }
+}
