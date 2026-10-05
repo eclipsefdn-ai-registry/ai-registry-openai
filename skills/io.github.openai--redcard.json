@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.openai/redcard",
+  "date": "2026-10-02",
+  "source": {
+    "url": "https://github.com/openai/redcard.git",
+    "path": "codex-skill/redcard"
+  }
+}
