@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.openai/phpcheck-url",
+  "date": "2026-11-01",
+  "source": {
+    "url": "https://github.com/openai/php2shell-checker.git",
+    "path": "skills/phpcheck-url"
+  }
+}
